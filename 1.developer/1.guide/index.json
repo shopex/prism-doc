@@ -1,0 +1,38 @@
+{
+    "1.intro.md": {
+        "navpath": [
+            "1.guide",
+            "1.intro.md"
+        ],
+        "next": null,
+        "prev": null,
+        "title": "关键概念",
+        "toc": null
+    },
+    "2.secrety.md": {
+        "navpath": [
+            "1.guide",
+            "2.secrety.md"
+        ],
+        "next": null,
+        "prev": {
+            "path": "1.guide/1.intro.md",
+            "title": "关键概念"
+        },
+        "title": "安全机制",
+        "toc": null
+    },
+    "3.oauth.md": {
+        "navpath": [
+            "1.guide",
+            "3.oauth.md"
+        ],
+        "next": null,
+        "prev": {
+            "path": "1.guide/2.secrety.md",
+            "title": "安全机制"
+        },
+        "title": "网站接入",
+        "toc": null
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "1.intro.md": {
+        "navpath": [
+            "1.rabbitmq",
+            "1.intro.md"
+        ],
+        "next": null,
+        "prev": {
+            "path": "0.operation/",
+            "title": "运维手册"
+        },
+        "title": "资源定位",
+        "toc": null
+    }
+}
