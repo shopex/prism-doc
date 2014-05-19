@@ -1,0 +1,18 @@
+# 开发者手册
+
+1. [上手指南](1.guide/)
+    1. [关键概念](1.guide/1.intro.md)
+    1. [安全机制](1.guide/2.secrety.md)
+    1. [网站接入](1.guide/3.oauth.md)
+1. [消息推送](2.notify/)
+    1. [工作原理](2.notify/1.workflow.md)
+    1. [发布消息](2.notify/2.publish.md)
+    1. [接收与处理消息](2.notify/3.receive.md)
+    1. [协议细节](2.notify/4.protcol.md)
+    1. [预定义模型](2.notify/5.model.md)
+1. [sdk文档](3.sdk/)
+1. [api提供者](4.api-provider/)
+    1. [工作流程](4.api-provider/1.workflow.md)
+    1. [服务的自发现:  /api.txt](4.api-provider/2.api.txt.md)
+    1. [密钥的传递流程](4.api-provider/3.autobind.md)
+    1. [附录: 保留参数](4.api-provider/4.keyparams.md)
