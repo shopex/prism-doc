@@ -11,7 +11,6 @@
         1. [接收与处理消息](1.developer/2.notify/3.receive.md)
         1. [协议细节](1.developer/2.notify/4.protcol.md)
         1. [预定义模型](1.developer/2.notify/5.model.md)
-    1. [sdk文档](1.developer/3.sdk/)
     1. [api提供者](1.developer/4.api-provider/)
         1. [工作流程](1.developer/4.api-provider/1.workflow.md)
         1. [服务的自发现:  /api.txt](1.developer/4.api-provider/2.api.txt.md)
@@ -28,3 +27,5 @@
     1. [运维手册](3.technical/0.operation/)
         1. [备份与还原](3.technical/0.operation/1.backup.md)
         1. [监控](3.technical/0.operation/2.monitor.md)
+    1. [RabbitMQ集成](3.technical/1.rabbitmq/)
+        1. [资源定位](3.technical/1.rabbitmq/1.intro.md)

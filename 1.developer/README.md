@@ -10,7 +10,6 @@
     1. [接收与处理消息](2.notify/3.receive.md)
     1. [协议细节](2.notify/4.protcol.md)
     1. [预定义模型](2.notify/5.model.md)
-1. [sdk文档](3.sdk/)
 1. [api提供者](4.api-provider/)
     1. [工作流程](4.api-provider/1.workflow.md)
     1. [服务的自发现:  /api.txt](4.api-provider/2.api.txt.md)

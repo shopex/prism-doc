@@ -1,0 +1,12 @@
+{
+    ".": {
+
+    },
+    "1.intro.md" : {
+        "navpath" : [],
+        "next": {"path":"path", "title": "page_title"},
+        "prev": {"path":"path", "title": "page_title"},
+        "up": {"path":"path", "title": "page_title"},
+        "toc": [],
+    }
+}
