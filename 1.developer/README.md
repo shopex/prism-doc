@@ -4,6 +4,7 @@
     1. [关键概念](1.guide/1.intro.md)
     1. [安全机制](1.guide/2.secrety.md)
     1. [网站接入](1.guide/3.oauth.md)
+    1. [api定义](1.guide/4.api.json.md)
 1. [消息推送](2.notify/)
     1. [工作原理](2.notify/1.workflow.md)
     1. [发布消息](2.notify/2.publish.md)
