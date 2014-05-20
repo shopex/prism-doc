@@ -6,8 +6,8 @@
         ],
         "next": null,
         "prev": {
-            "path": "2.notify/",
-            "title": "消息推送"
+            "path": "3.sdk/",
+            "title": "sdk文档"
         },
         "title": "工作流程",
         "toc": null
@@ -49,6 +49,32 @@
             "title": "密钥的传递流程"
         },
         "title": "附录: 保留参数",
+        "toc": null
+    },
+    "5.api-json.md": {
+        "navpath": [
+            "4.api-provider",
+            "5.api-json.md"
+        ],
+        "next": null,
+        "prev": {
+            "path": "4.api-provider/4.keyparams.md",
+            "title": "附录: 保留参数"
+        },
+        "title": "api-json文件",
+        "toc": null
+    },
+    "6.php-sdk.md": {
+        "navpath": [
+            "4.api-provider",
+            "6.php-sdk.md"
+        ],
+        "next": null,
+        "prev": {
+            "path": "4.api-provider/5.api-json.md",
+            "title": "api-json文件"
+        },
+        "title": "使用php sdk编写服务端",
         "toc": null
     }
 }
