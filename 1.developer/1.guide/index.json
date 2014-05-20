@@ -34,18 +34,5 @@
         },
         "title": "网站接入",
         "toc": null
-    },
-    "4.api.json.md": {
-        "navpath": [
-            "1.guide",
-            "4.api.json.md"
-        ],
-        "next": null,
-        "prev": {
-            "path": "1.guide/3.oauth.md",
-            "title": "网站接入"
-        },
-        "title": "api定义",
-        "toc": null
     }
 }
