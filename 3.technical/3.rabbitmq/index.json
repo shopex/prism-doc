@@ -1,12 +1,12 @@
 {
     "1.intro.md": {
         "navpath": [
-            "1.rabbitmq",
+            "3.rabbitmq",
             "1.intro.md"
         ],
         "next": null,
         "prev": {
-            "path": "0.operation/",
+            "path": "2.operation/",
             "title": "运维手册"
         },
         "title": "资源定位",
