@@ -1,15 +1,33 @@
 {
-    "1.php.md": {
-        "navpath": [
-            "3.sdk",
-            "1.php.md"
-        ],
-        "next": null,
-        "prev": {
-            "path": "2.notify/",
-            "title": "消息推送"
+    "child": {
+        "1.php.md": {
+            "next": null,
+            "prev": {
+                "path": "3.sdk/",
+                "title": "sdk文档"
+            },
+            "title": "如何调用Api, php篇"
         },
-        "title": "如何调用Api, php篇",
-        "toc": null
-    }
+        "README.md": {
+            "next": {
+                "path": "3.sdk/1.php.md",
+                "title": "如何调用Api, php篇"
+            },
+            "prev": {
+                "path": "2.notify/5.model.md",
+                "title": "预定义模型"
+            },
+            "title": "sdk文档"
+        }
+    },
+    "nav": [
+        {
+            "path": "/",
+            "title": "开发者手册"
+        },
+        {
+            "path": "3.sdk/",
+            "title": "sdk文档"
+        }
+    ]
 }

@@ -1,67 +1,80 @@
 {
-    "1.workflow.md": {
-        "navpath": [
-            "2.notify",
-            "1.workflow.md"
-        ],
-        "next": null,
-        "prev": {
-            "path": "1.guide/",
-            "title": "上手指南"
-        },
-        "title": "工作原理",
-        "toc": null
-    },
-    "2.publish.md": {
-        "navpath": [
-            "2.notify",
-            "2.publish.md"
-        ],
-        "next": null,
-        "prev": {
-            "path": "2.notify/1.workflow.md",
+    "child": {
+        "1.workflow.md": {
+            "next": {
+                "path": "2.notify/2.publish.md",
+                "title": "发布消息"
+            },
+            "prev": {
+                "path": "2.notify/",
+                "title": "消息推送"
+            },
             "title": "工作原理"
         },
-        "title": "发布消息",
-        "toc": null
-    },
-    "3.receive.md": {
-        "navpath": [
-            "2.notify",
-            "3.receive.md"
-        ],
-        "next": null,
-        "prev": {
-            "path": "2.notify/2.publish.md",
+        "2.publish.md": {
+            "next": {
+                "path": "2.notify/3.receive.md",
+                "title": "接收与处理消息"
+            },
+            "prev": {
+                "path": "2.notify/1.workflow.md",
+                "title": "工作原理"
+            },
             "title": "发布消息"
         },
-        "title": "接收与处理消息",
-        "toc": null
-    },
-    "4.protcol.md": {
-        "navpath": [
-            "2.notify",
-            "4.protcol.md"
-        ],
-        "next": null,
-        "prev": {
-            "path": "2.notify/3.receive.md",
+        "3.receive.md": {
+            "next": {
+                "path": "2.notify/4.protcol.md",
+                "title": "协议细节"
+            },
+            "prev": {
+                "path": "2.notify/2.publish.md",
+                "title": "发布消息"
+            },
             "title": "接收与处理消息"
         },
-        "title": "协议细节",
-        "toc": null
-    },
-    "5.model.md": {
-        "navpath": [
-            "2.notify",
-            "5.model.md"
-        ],
-        "next": null,
-        "prev": {
-            "path": "2.notify/4.protcol.md",
+        "4.protcol.md": {
+            "next": {
+                "path": "2.notify/5.model.md",
+                "title": "预定义模型"
+            },
+            "prev": {
+                "path": "2.notify/3.receive.md",
+                "title": "接收与处理消息"
+            },
             "title": "协议细节"
         },
-        "title": "预定义模型",
-        "toc": null
-    }
+        "5.model.md": {
+            "next": {
+                "path": "3.sdk/",
+                "title": "sdk文档"
+            },
+            "prev": {
+                "path": "2.notify/4.protcol.md",
+                "title": "协议细节"
+            },
+            "title": "预定义模型"
+        },
+        "README.md": {
+            "next": {
+                "path": "2.notify/1.workflow.md",
+                "title": "工作原理"
+            },
+            "prev": {
+                "path": "1.guide/3.oauth.md",
+                "title": "网站接入"
+            },
+            "title": "消息推送"
+        }
+    },
+    "nav": [
+        {
+            "path": "/",
+            "title": "开发者手册"
+        },
+        {
+            "path": "2.notify/",
+            "title": "消息推送"
+        }
+    ]
 }

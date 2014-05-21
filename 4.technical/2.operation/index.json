@@ -1,0 +1,47 @@
+{
+    "child": {
+        "1.backup.md": {
+            "next": {
+                "path": "2.operation/2.monitor.md",
+                "title": "监控"
+            },
+            "prev": {
+                "path": "2.operation/",
+                "title": "运维手册"
+            },
+            "title": "备份与还原"
+        },
+        "2.monitor.md": {
+            "next": {
+                "path": "3.rabbitmq/",
+                "title": "RabbitMQ集成"
+            },
+            "prev": {
+                "path": "2.operation/1.backup.md",
+                "title": "备份与还原"
+            },
+            "title": "监控"
+        },
+        "README.md": {
+            "next": {
+                "path": "2.operation/1.backup.md",
+                "title": "备份与还原"
+            },
+            "prev": {
+                "path": "1.intro.md",
+                "title": "整体介绍"
+            },
+            "title": "运维手册"
+        }
+    },
+    "nav": [
+        {
+            "path": "/",
+            "title": "技术手册"
+        },
+        {
+            "path": "2.operation/",
+            "title": "运维手册"
+        }
+    ]
+}

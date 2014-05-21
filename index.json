@@ -1,1 +1,15 @@
-{}
+{
+    "child": {
+        "README.md": {
+            "next": null,
+            "prev": null,
+            "title": "Prism Document"
+        }
+    },
+    "nav": [
+        {
+            "path": "/",
+            "title": "Prism Document"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "child": {
+        "1.intro.md": {
+            "next": {
+                "path": "2.apimgr.md",
+                "title": "api管理"
+            },
+            "prev": {
+                "path": "/",
+                "title": "管理员手册"
+            },
+            "title": "快速入门"
+        },
+        "2.apimgr.md": {
+            "next": {
+                "path": "3.appmgr.md",
+                "title": "应用与Key管理"
+            },
+            "prev": {
+                "path": "1.intro.md",
+                "title": "快速入门"
+            },
+            "title": "api管理"
+        },
+        "3.appmgr.md": {
+            "next": {
+                "path": "4.oauth.md",
+                "title": "提供OAuth服务"
+            },
+            "prev": {
+                "path": "2.apimgr.md",
+                "title": "api管理"
+            },
+            "title": "应用与Key管理"
+        },
+        "4.oauth.md": {
+            "next": {
+                "path": "5.notify.md",
+                "title": "消息队列管理"
+            },
+            "prev": {
+                "path": "3.appmgr.md",
+                "title": "应用与Key管理"
+            },
+            "title": "提供OAuth服务"
+        },
+        "5.notify.md": {
+            "next": {
+                "path": "6.website.md",
+                "title": "网站管理"
+            },
+            "prev": {
+                "path": "4.oauth.md",
+                "title": "提供OAuth服务"
+            },
+            "title": "消息队列管理"
+        },
+        "6.website.md": {
+            "next": null,
+            "prev": {
+                "path": "5.notify.md",
+                "title": "消息队列管理"
+            },
+            "title": "网站管理"
+        },
+        "README.md": {
+            "next": {
+                "path": "1.intro.md",
+                "title": "快速入门"
+            },
+            "prev": null,
+            "title": "管理员手册"
+        }
+    },
+    "nav": [
+        {
+            "path": "/",
+            "title": "管理员手册"
+        }
+    ]
+}

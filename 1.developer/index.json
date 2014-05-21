@@ -1,1 +1,18 @@
-{}
+{
+    "child": {
+        "README.md": {
+            "next": {
+                "path": "1.guide/",
+                "title": "上手指南"
+            },
+            "prev": null,
+            "title": "开发者手册"
+        }
+    },
+    "nav": [
+        {
+            "path": "/",
+            "title": "开发者手册"
+        }
+    ]
+}

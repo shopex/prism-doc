@@ -1,0 +1,81 @@
+{
+    "child": {
+        "1.workflow.md": {
+            "next": {
+                "path": "2.api.txt.md",
+                "title": "服务的自发现:  /api.txt"
+            },
+            "prev": {
+                "path": "/",
+                "title": "api提供者"
+            },
+            "title": "工作流程"
+        },
+        "2.api.txt.md": {
+            "next": {
+                "path": "3.autobind.md",
+                "title": "密钥的传递流程"
+            },
+            "prev": {
+                "path": "1.workflow.md",
+                "title": "工作流程"
+            },
+            "title": "服务的自发现:  /api.txt"
+        },
+        "3.autobind.md": {
+            "next": {
+                "path": "4.keyparams.md",
+                "title": "附录: 保留参数"
+            },
+            "prev": {
+                "path": "2.api.txt.md",
+                "title": "服务的自发现:  /api.txt"
+            },
+            "title": "密钥的传递流程"
+        },
+        "4.keyparams.md": {
+            "next": {
+                "path": "5.api-json.md",
+                "title": "api-json文件"
+            },
+            "prev": {
+                "path": "3.autobind.md",
+                "title": "密钥的传递流程"
+            },
+            "title": "附录: 保留参数"
+        },
+        "5.api-json.md": {
+            "next": {
+                "path": "6.php-sdk.md",
+                "title": "使用php sdk编写服务端"
+            },
+            "prev": {
+                "path": "4.keyparams.md",
+                "title": "附录: 保留参数"
+            },
+            "title": "api-json文件"
+        },
+        "6.php-sdk.md": {
+            "next": null,
+            "prev": {
+                "path": "5.api-json.md",
+                "title": "api-json文件"
+            },
+            "title": "使用php sdk编写服务端"
+        },
+        "README.md": {
+            "next": {
+                "path": "1.workflow.md",
+                "title": "工作流程"
+            },
+            "prev": null,
+            "title": "api提供者"
+        }
+    },
+    "nav": [
+        {
+            "path": "/",
+            "title": "api提供者"
+        }
+    ]
+}

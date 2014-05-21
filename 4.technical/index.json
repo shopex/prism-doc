@@ -1,0 +1,29 @@
+{
+    "child": {
+        "1.intro.md": {
+            "next": {
+                "path": "2.operation/",
+                "title": "运维手册"
+            },
+            "prev": {
+                "path": "/",
+                "title": "技术手册"
+            },
+            "title": "整体介绍"
+        },
+        "README.md": {
+            "next": {
+                "path": "1.intro.md",
+                "title": "整体介绍"
+            },
+            "prev": null,
+            "title": "技术手册"
+        }
+    },
+    "nav": [
+        {
+            "path": "/",
+            "title": "技术手册"
+        }
+    ]
+}
