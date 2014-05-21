@@ -13,7 +13,7 @@
         1. [预定义模型](1.developer/2.notify/5.model.md)
     1. [sdk文档](1.developer/3.sdk/)
         1. [如何调用Api, php篇](1.developer/3.sdk/1.php.md)
-1. [api提供者](2.api-provider/)
+1. [api发布者手册](2.api-provider/)
     1. [工作流程](2.api-provider/1.workflow.md)
     1. [服务的自发现:  /api.txt](2.api-provider/2.api.txt.md)
     1. [密钥的传递流程](2.api-provider/3.autobind.md)

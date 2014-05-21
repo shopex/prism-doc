@@ -1,4 +1,4 @@
-# api提供者
+# api发布者手册
 
 1. [工作流程](1.workflow.md)
 1. [服务的自发现:  /api.txt](2.api.txt.md)

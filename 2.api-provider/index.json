@@ -7,7 +7,7 @@
             },
             "prev": {
                 "path": "/",
-                "title": "api提供者"
+                "title": "api发布者手册"
             },
             "title": "工作流程"
         },
@@ -69,13 +69,13 @@
                 "title": "工作流程"
             },
             "prev": null,
-            "title": "api提供者"
+            "title": "api发布者手册"
         }
     },
     "nav": [
         {
             "path": "/",
-            "title": "api提供者"
+            "title": "api发布者手册"
         }
     ]
 }
