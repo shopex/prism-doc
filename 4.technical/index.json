@@ -2,14 +2,25 @@
     "child": {
         "1.intro.md": {
             "next": {
-                "path": "2.operation/",
-                "title": "运维手册"
+                "path": "2.cmd.md",
+                "title": "命令行工具"
             },
             "prev": {
                 "path": "/",
                 "title": "技术手册"
             },
             "title": "整体介绍"
+        },
+        "2.cmd.md": {
+            "next": {
+                "path": "3.operation/",
+                "title": "运维手册"
+            },
+            "prev": {
+                "path": "1.intro.md",
+                "title": "整体介绍"
+            },
+            "title": "命令行工具"
         },
         "README.md": {
             "next": {

@@ -3,18 +3,18 @@
         "1.intro.md": {
             "next": null,
             "prev": {
-                "path": "3.rabbitmq/",
+                "path": "4.rabbitmq/",
                 "title": "RabbitMQ集成"
             },
             "title": "资源定位"
         },
         "README.md": {
             "next": {
-                "path": "3.rabbitmq/1.intro.md",
+                "path": "4.rabbitmq/1.intro.md",
                 "title": "资源定位"
             },
             "prev": {
-                "path": "2.operation/3.monitor.md",
+                "path": "3.operation/3.monitor.md",
                 "title": "监控"
             },
             "title": "RabbitMQ集成"
@@ -26,7 +26,7 @@
             "title": "技术手册"
         },
         {
-            "path": "3.rabbitmq/",
+            "path": "4.rabbitmq/",
             "title": "RabbitMQ集成"
         }
     ]
