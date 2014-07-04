@@ -12,3 +12,4 @@
     1. [预定义模型](2.notify/5.model.md)
 1. [sdk文档](3.sdk/)
     1. [如何调用Api, php篇](3.sdk/1.php.md)
+    1. [shopex Prism sdk (java version)](3.sdk/2.java.md)

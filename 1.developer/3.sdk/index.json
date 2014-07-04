@@ -1,12 +1,23 @@
 {
     "child": {
         "1.php.md": {
-            "next": null,
+            "next": {
+                "path": "3.sdk/2.java.md",
+                "title": "shopex Prism sdk (java version)"
+            },
             "prev": {
                 "path": "3.sdk/",
                 "title": "sdk文档"
             },
             "title": "如何调用Api, php篇"
+        },
+        "2.java.md": {
+            "next": null,
+            "prev": {
+                "path": "3.sdk/1.php.md",
+                "title": "如何调用Api, php篇"
+            },
+            "title": "shopex Prism sdk (java version)"
         },
         "README.md": {
             "next": {
