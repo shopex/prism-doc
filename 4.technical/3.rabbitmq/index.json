@@ -14,7 +14,7 @@
                 "title": "资源定位"
             },
             "prev": {
-                "path": "2.operation/2.monitor.md",
+                "path": "2.operation/3.monitor.md",
                 "title": "监控"
             },
             "title": "RabbitMQ集成"

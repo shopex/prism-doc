@@ -1,31 +1,42 @@
 {
     "child": {
-        "1.backup.md": {
+        "1.install.md": {
             "next": {
-                "path": "2.operation/2.monitor.md",
-                "title": "监控"
+                "path": "2.operation/2.backup.md",
+                "title": "备份与还原"
             },
             "prev": {
                 "path": "2.operation/",
                 "title": "运维手册"
             },
+            "title": "安装和初始化"
+        },
+        "2.backup.md": {
+            "next": {
+                "path": "2.operation/3.monitor.md",
+                "title": "监控"
+            },
+            "prev": {
+                "path": "2.operation/1.install.md",
+                "title": "安装和初始化"
+            },
             "title": "备份与还原"
         },
-        "2.monitor.md": {
+        "3.monitor.md": {
             "next": {
                 "path": "3.rabbitmq/",
                 "title": "RabbitMQ集成"
             },
             "prev": {
-                "path": "2.operation/1.backup.md",
+                "path": "2.operation/2.backup.md",
                 "title": "备份与还原"
             },
             "title": "监控"
         },
         "README.md": {
             "next": {
-                "path": "2.operation/1.backup.md",
-                "title": "备份与还原"
+                "path": "2.operation/1.install.md",
+                "title": "安装和初始化"
             },
             "prev": {
                 "path": "1.intro.md",
