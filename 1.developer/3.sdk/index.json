@@ -3,7 +3,7 @@
         "1.download.md": {
             "next": {
                 "path": "3.sdk/2.php.md",
-                "title": "如何调用Api, php篇"
+                "title": "php sdk"
             },
             "prev": {
                 "path": "3.sdk/",
@@ -14,21 +14,24 @@
         "2.php.md": {
             "next": {
                 "path": "3.sdk/3.java.md",
-                "title": "shopex Prism sdk (java version)"
+                "title": "php sdk"
             },
             "prev": {
                 "path": "3.sdk/1.download.md",
                 "title": "sdk下载"
             },
-            "title": "如何调用Api, php篇"
+            "title": "php sdk"
         },
         "3.java.md": {
-            "next": null,
+            "next": {
+                "path": "4.appendix/",
+                "title": "附录"
+            },
             "prev": {
                 "path": "3.sdk/2.php.md",
-                "title": "如何调用Api, php篇"
+                "title": "php sdk"
             },
-            "title": "shopex Prism sdk (java version)"
+            "title": "php sdk"
         },
         "README.md": {
             "next": {

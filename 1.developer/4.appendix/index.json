@@ -1,0 +1,44 @@
+{
+    "child": {
+        "1.errors.md": {
+            "next": {
+                "path": "4.appendix/2.events.md",
+                "title": "事件类型"
+            },
+            "prev": {
+                "path": "4.appendix/",
+                "title": "附录"
+            },
+            "title": "错误码查询"
+        },
+        "2.events.md": {
+            "next": null,
+            "prev": {
+                "path": "4.appendix/1.errors.md",
+                "title": "错误码查询"
+            },
+            "title": "事件类型"
+        },
+        "README.md": {
+            "next": {
+                "path": "4.appendix/1.errors.md",
+                "title": "错误码查询"
+            },
+            "prev": {
+                "path": "3.sdk/3.java.md",
+                "title": "php sdk"
+            },
+            "title": "附录"
+        }
+    },
+    "nav": [
+        {
+            "path": "/",
+            "title": "开发者手册"
+        },
+        {
+            "path": "4.appendix/",
+            "title": "附录"
+        }
+    ]
+}
