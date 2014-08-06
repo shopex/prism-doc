@@ -18,6 +18,7 @@
     1. [附录](1.developer/4.appendix/)
         1. [错误码查询](1.developer/4.appendix/1.errors.md)
         1. [事件类型](1.developer/4.appendix/2.events.md)
+    1. [常见问题](1.developer/5.qa.md)
 1. [api发布者手册](2.api-provider/)
     1. [工作流程](2.api-provider/1.workflow.md)
     1. [服务的自发现:  /api.txt](2.api-provider/2.api.txt.md)

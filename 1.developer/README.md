@@ -17,3 +17,4 @@
 1. [附录](4.appendix/)
     1. [错误码查询](4.appendix/1.errors.md)
     1. [事件类型](4.appendix/2.events.md)
+1. [常见问题](5.qa.md)

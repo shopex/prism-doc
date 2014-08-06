@@ -12,7 +12,10 @@
             "title": "错误码查询"
         },
         "2.events.md": {
-            "next": null,
+            "next": {
+                "path": "5.qa.md",
+                "title": "常见问题"
+            },
             "prev": {
                 "path": "4.appendix/1.errors.md",
                 "title": "错误码查询"
