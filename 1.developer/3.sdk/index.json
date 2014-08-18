@@ -14,7 +14,7 @@
         "2.php.md": {
             "next": {
                 "path": "3.sdk/3.java.md",
-                "title": "php sdk"
+                "title": "java sdk"
             },
             "prev": {
                 "path": "3.sdk/1.download.md",
@@ -24,14 +24,25 @@
         },
         "3.java.md": {
             "next": {
-                "path": "4.appendix/",
-                "title": "附录"
+                "path": "3.sdk/4.go.md",
+                "title": "go sdk"
             },
             "prev": {
                 "path": "3.sdk/2.php.md",
                 "title": "php sdk"
             },
-            "title": "php sdk"
+            "title": "java sdk"
+        },
+        "4.go.md": {
+            "next": {
+                "path": "4.appendix/",
+                "title": "附录"
+            },
+            "prev": {
+                "path": "3.sdk/3.java.md",
+                "title": "java sdk"
+            },
+            "title": "go sdk"
         },
         "README.md": {
             "next": {

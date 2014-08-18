@@ -28,8 +28,8 @@
                 "title": "错误码查询"
             },
             "prev": {
-                "path": "3.sdk/3.java.md",
-                "title": "php sdk"
+                "path": "3.sdk/4.go.md",
+                "title": "go sdk"
             },
             "title": "附录"
         }
