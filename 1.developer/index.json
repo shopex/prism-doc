@@ -1,13 +1,5 @@
 {
     "child": {
-        "5.qa.md": {
-            "next": null,
-            "prev": {
-                "path": "4.appendix/2.events.md",
-                "title": "事件类型"
-            },
-            "title": "常见问题"
-        },
         "README.md": {
             "next": {
                 "path": "1.guide/",

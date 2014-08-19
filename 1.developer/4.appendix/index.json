@@ -12,10 +12,7 @@
             "title": "错误码查询"
         },
         "2.events.md": {
-            "next": {
-                "path": "5.qa.md",
-                "title": "常见问题"
-            },
+            "next": null,
             "prev": {
                 "path": "4.appendix/1.errors.md",
                 "title": "错误码查询"
@@ -29,7 +26,7 @@
             },
             "prev": {
                 "path": "3.sdk/4.go.md",
-                "title": "go sdk"
+                "title": "Go"
             },
             "title": "附录"
         }

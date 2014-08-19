@@ -24,14 +24,25 @@
         },
         "3.oauth.md": {
             "next": {
-                "path": "2.notify/",
-                "title": "消息推送"
+                "path": "1.guide/4.qa.md",
+                "title": "常见问题"
             },
             "prev": {
                 "path": "1.guide/2.secrety.md",
                 "title": "安全机制"
             },
             "title": "网站接入"
+        },
+        "4.qa.md": {
+            "next": {
+                "path": "2.notify/",
+                "title": "消息推送"
+            },
+            "prev": {
+                "path": "1.guide/3.oauth.md",
+                "title": "网站接入"
+            },
+            "title": "常见问题"
         },
         "README.md": {
             "next": {

@@ -47,7 +47,7 @@
         "5.model.md": {
             "next": {
                 "path": "3.sdk/",
-                "title": "sdk文档"
+                "title": "SDK"
             },
             "prev": {
                 "path": "2.notify/4.protcol.md",
@@ -61,8 +61,8 @@
                 "title": "工作原理"
             },
             "prev": {
-                "path": "1.guide/3.oauth.md",
-                "title": "网站接入"
+                "path": "1.guide/4.qa.md",
+                "title": "常见问题"
             },
             "title": "消息推送"
         }

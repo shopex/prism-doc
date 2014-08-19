@@ -1,6 +1,5 @@
-# sdk文档
+# SDK
 
-1. [sdk下载](1.download.md)
-1. [php sdk](2.php.md)
-1. [java sdk](3.java.md)
-1. [go sdk](4.go.md)
+1. [Java](1.java.md)
+1. [php](2.php.md)
+1. [Go](4.go.md)

@@ -1,37 +1,26 @@
 {
     "child": {
-        "1.download.md": {
+        "1.java.md": {
             "next": {
                 "path": "3.sdk/2.php.md",
-                "title": "php sdk"
+                "title": "php"
             },
             "prev": {
                 "path": "3.sdk/",
-                "title": "sdk文档"
+                "title": "SDK"
             },
-            "title": "sdk下载"
+            "title": "Java"
         },
         "2.php.md": {
             "next": {
-                "path": "3.sdk/3.java.md",
-                "title": "java sdk"
-            },
-            "prev": {
-                "path": "3.sdk/1.download.md",
-                "title": "sdk下载"
-            },
-            "title": "php sdk"
-        },
-        "3.java.md": {
-            "next": {
                 "path": "3.sdk/4.go.md",
-                "title": "go sdk"
+                "title": "Go"
             },
             "prev": {
-                "path": "3.sdk/2.php.md",
-                "title": "php sdk"
+                "path": "3.sdk/1.java.md",
+                "title": "Java"
             },
-            "title": "java sdk"
+            "title": "php"
         },
         "4.go.md": {
             "next": {
@@ -39,21 +28,21 @@
                 "title": "附录"
             },
             "prev": {
-                "path": "3.sdk/3.java.md",
-                "title": "java sdk"
+                "path": "3.sdk/2.php.md",
+                "title": "php"
             },
-            "title": "go sdk"
+            "title": "Go"
         },
         "README.md": {
             "next": {
-                "path": "3.sdk/1.download.md",
-                "title": "sdk下载"
+                "path": "3.sdk/1.java.md",
+                "title": "Java"
             },
             "prev": {
                 "path": "2.notify/5.model.md",
                 "title": "预定义模型"
             },
-            "title": "sdk文档"
+            "title": "SDK"
         }
     },
     "nav": [
@@ -63,7 +52,7 @@
         },
         {
             "path": "3.sdk/",
-            "title": "sdk文档"
+            "title": "SDK"
         }
     ]
 }
