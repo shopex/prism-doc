@@ -19,6 +19,7 @@
     1. [Python](3.sdk/5.py.md)
     1. [Apple](3.sdk/6.ios.md)
     1. [Android](3.sdk/7.android.md)
+    1. [NodeJS](3.sdk/8.js.md)
 1. [附录](4.appendix/)
     1. [错误码查询](4.appendix/1.errors.md)
     1. [事件类型](4.appendix/2.events.md)

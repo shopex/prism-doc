@@ -79,14 +79,25 @@
         },
         "7.android.md": {
             "next": {
-                "path": "4.appendix/",
-                "title": "附录"
+                "path": "3.sdk/8.js.md",
+                "title": "NodeJS"
             },
             "prev": {
                 "path": "3.sdk/6.ios.md",
                 "title": "Apple"
             },
             "title": "Android"
+        },
+        "8.js.md": {
+            "next": {
+                "path": "4.appendix/",
+                "title": "附录"
+            },
+            "prev": {
+                "path": "3.sdk/7.android.md",
+                "title": "Android"
+            },
+            "title": "NodeJS"
         },
         "README.md": {
             "next": {
