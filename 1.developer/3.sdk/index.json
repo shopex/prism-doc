@@ -13,8 +13,8 @@
         },
         "2.php.md": {
             "next": {
-                "path": "3.sdk/4.go.md",
-                "title": "Go"
+                "path": "3.sdk/3.csharp.md",
+                "title": "C#"
             },
             "prev": {
                 "path": "3.sdk/1.java.md",
@@ -22,16 +22,60 @@
             },
             "title": "php"
         },
-        "4.go.md": {
+        "3.csharp.md": {
             "next": {
-                "path": "4.appendix/",
-                "title": "附录"
+                "path": "3.sdk/4.go.md",
+                "title": "Go"
             },
             "prev": {
                 "path": "3.sdk/2.php.md",
                 "title": "php"
             },
+            "title": "C#"
+        },
+        "4.go.md": {
+            "next": {
+                "path": "3.sdk/5.py.md",
+                "title": "Python"
+            },
+            "prev": {
+                "path": "3.sdk/3.csharp.md",
+                "title": "C#"
+            },
             "title": "Go"
+        },
+        "5.py.md": {
+            "next": {
+                "path": "3.sdk/6.ios.md",
+                "title": "Apple"
+            },
+            "prev": {
+                "path": "3.sdk/4.go.md",
+                "title": "Go"
+            },
+            "title": "Python"
+        },
+        "6.ios.md": {
+            "next": {
+                "path": "3.sdk/7.android.md",
+                "title": "Android"
+            },
+            "prev": {
+                "path": "3.sdk/5.py.md",
+                "title": "Python"
+            },
+            "title": "Apple"
+        },
+        "7.android.md": {
+            "next": {
+                "path": "4.appendix/",
+                "title": "附录"
+            },
+            "prev": {
+                "path": "3.sdk/6.ios.md",
+                "title": "Apple"
+            },
+            "title": "Android"
         },
         "README.md": {
             "next": {
