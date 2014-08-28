@@ -1,13 +1,24 @@
 {
     "child": {
+        "0.guide.md": {
+            "next": {
+                "path": "3.sdk/1.java.md",
+                "title": "Java"
+            },
+            "prev": {
+                "path": "3.sdk/",
+                "title": "SDK"
+            },
+            "title": "开发工具概述"
+        },
         "1.java.md": {
             "next": {
                 "path": "3.sdk/2.php.md",
                 "title": "php"
             },
             "prev": {
-                "path": "3.sdk/",
-                "title": "SDK"
+                "path": "3.sdk/0.guide.md",
+                "title": "开发工具概述"
             },
             "title": "Java"
         },
@@ -79,8 +90,8 @@
         },
         "README.md": {
             "next": {
-                "path": "3.sdk/1.java.md",
-                "title": "Java"
+                "path": "3.sdk/0.guide.md",
+                "title": "开发工具概述"
             },
             "prev": {
                 "path": "2.notify/5.model.md",
