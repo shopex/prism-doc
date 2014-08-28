@@ -11,7 +11,6 @@
         1. [发布消息](1.developer/2.notify/2.publish.md)
         1. [接收与处理消息](1.developer/2.notify/3.receive.md)
         1. [协议细节](1.developer/2.notify/4.protcol.md)
-        1. [预定义模型](1.developer/2.notify/5.model.md)
     1. [SDK](1.developer/3.sdk/)
         1. [开发工具概述](1.developer/3.sdk/0.guide.md)
         1. [Java](1.developer/3.sdk/1.java.md)

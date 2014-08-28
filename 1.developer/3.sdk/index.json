@@ -94,8 +94,8 @@
                 "title": "开发工具概述"
             },
             "prev": {
-                "path": "2.notify/5.model.md",
-                "title": "预定义模型"
+                "path": "2.notify/4.protcol.md",
+                "title": "协议细节"
             },
             "title": "SDK"
         }
