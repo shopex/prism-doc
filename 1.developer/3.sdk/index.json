@@ -1,108 +1,97 @@
 {
     "child": {
-        "0.guide.md": {
+        "1.prism-java.md": {
             "next": {
-                "path": "3.sdk/1.java.md",
-                "title": "Java"
+                "path": "3.sdk/2.prism-php.md",
+                "title": "PHP"
             },
             "prev": {
                 "path": "3.sdk/",
                 "title": "SDK"
             },
-            "title": "开发工具概述"
-        },
-        "1.java.md": {
-            "next": {
-                "path": "3.sdk/2.php.md",
-                "title": "php"
-            },
-            "prev": {
-                "path": "3.sdk/0.guide.md",
-                "title": "开发工具概述"
-            },
             "title": "Java"
         },
-        "2.php.md": {
+        "2.prism-php.md": {
             "next": {
-                "path": "3.sdk/3.csharp.md",
+                "path": "3.sdk/3.prism-csharp.md",
                 "title": "C#"
             },
             "prev": {
-                "path": "3.sdk/1.java.md",
+                "path": "3.sdk/1.prism-java.md",
                 "title": "Java"
             },
-            "title": "php"
+            "title": "PHP"
         },
-        "3.csharp.md": {
+        "3.prism-csharp.md": {
             "next": {
-                "path": "3.sdk/4.go.md",
+                "path": "3.sdk/4.prism-go.md",
                 "title": "Go"
             },
             "prev": {
-                "path": "3.sdk/2.php.md",
-                "title": "php"
+                "path": "3.sdk/2.prism-php.md",
+                "title": "PHP"
             },
             "title": "C#"
         },
-        "4.go.md": {
+        "4.prism-go.md": {
             "next": {
-                "path": "3.sdk/5.py.md",
+                "path": "3.sdk/5.prism-python.md",
                 "title": "Python"
             },
             "prev": {
-                "path": "3.sdk/3.csharp.md",
+                "path": "3.sdk/3.prism-csharp.md",
                 "title": "C#"
             },
             "title": "Go"
         },
-        "5.py.md": {
+        "5.prism-python.md": {
             "next": {
-                "path": "3.sdk/6.ios.md",
-                "title": "Apple"
+                "path": "3.sdk/6.prism-ios.md",
+                "title": "ios"
             },
             "prev": {
-                "path": "3.sdk/4.go.md",
+                "path": "3.sdk/4.prism-go.md",
                 "title": "Go"
             },
             "title": "Python"
         },
-        "6.ios.md": {
+        "6.prism-ios.md": {
             "next": {
-                "path": "3.sdk/7.android.md",
+                "path": "3.sdk/7.prism-android.md",
                 "title": "Android"
             },
             "prev": {
-                "path": "3.sdk/5.py.md",
+                "path": "3.sdk/5.prism-python.md",
                 "title": "Python"
             },
-            "title": "Apple"
+            "title": "ios"
         },
-        "7.android.md": {
+        "7.prism-android.md": {
             "next": {
-                "path": "3.sdk/8.js.md",
+                "path": "3.sdk/8.prism-js.md",
                 "title": "NodeJS"
             },
             "prev": {
-                "path": "3.sdk/6.ios.md",
-                "title": "Apple"
+                "path": "3.sdk/6.prism-ios.md",
+                "title": "ios"
             },
             "title": "Android"
         },
-        "8.js.md": {
+        "8.prism-js.md": {
             "next": {
                 "path": "4.appendix/",
                 "title": "附录"
             },
             "prev": {
-                "path": "3.sdk/7.android.md",
+                "path": "3.sdk/7.prism-android.md",
                 "title": "Android"
             },
             "title": "NodeJS"
         },
         "README.md": {
             "next": {
-                "path": "3.sdk/0.guide.md",
-                "title": "开发工具概述"
+                "path": "3.sdk/1.prism-java.md",
+                "title": "Java"
             },
             "prev": {
                 "path": "2.notify/4.protcol.md",
