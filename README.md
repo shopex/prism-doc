@@ -1,4 +1,4 @@
-# Prism Document
+# Prism技术手册
 
 1. [开发者手册](1.developer/)
     1. [上手指南](1.developer/1.guide/)
