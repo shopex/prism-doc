@@ -6,7 +6,7 @@
                 "title": "备份与还原"
             },
             "prev": {
-                "path": "3.operation/",
+                "path": "3.operation/README.md",
                 "title": "运维手册"
             },
             "title": "安装和初始化"
@@ -35,7 +35,7 @@
         },
         "4.log.md": {
             "next": {
-                "path": "4.rabbitmq/",
+                "path": "4.rabbitmq/README.md",
                 "title": "RabbitMQ集成"
             },
             "prev": {
@@ -58,11 +58,11 @@
     },
     "nav": [
         {
-            "path": "/",
+            "path": "/README.md",
             "title": "技术手册"
         },
         {
-            "path": "3.operation/",
+            "path": "3.operation/README.md",
             "title": "运维手册"
         }
     ]

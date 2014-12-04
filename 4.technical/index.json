@@ -6,14 +6,14 @@
                 "title": "命令行工具"
             },
             "prev": {
-                "path": "/",
+                "path": "/README.md",
                 "title": "技术手册"
             },
             "title": "整体介绍"
         },
         "2.cmd.md": {
             "next": {
-                "path": "3.operation/",
+                "path": "3.operation/README.md",
                 "title": "运维手册"
             },
             "prev": {
@@ -33,7 +33,7 @@
     },
     "nav": [
         {
-            "path": "/",
+            "path": "/README.md",
             "title": "技术手册"
         }
     ]

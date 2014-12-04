@@ -3,7 +3,7 @@
         "1.intro.md": {
             "next": null,
             "prev": {
-                "path": "4.rabbitmq/",
+                "path": "4.rabbitmq/README.md",
                 "title": "RabbitMQ集成"
             },
             "title": "资源定位"
@@ -22,11 +22,11 @@
     },
     "nav": [
         {
-            "path": "/",
+            "path": "/README.md",
             "title": "技术手册"
         },
         {
-            "path": "4.rabbitmq/",
+            "path": "4.rabbitmq/README.md",
             "title": "RabbitMQ集成"
         }
     ]

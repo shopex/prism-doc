@@ -2,7 +2,7 @@
     "child": {
         "README.md": {
             "next": {
-                "path": "1.guide/",
+                "path": "1.guide/README.md",
                 "title": "上手指南"
             },
             "prev": null,
@@ -11,7 +11,7 @@
     },
     "nav": [
         {
-            "path": "/",
+            "path": "/README.md",
             "title": "开发者手册"
         }
     ]

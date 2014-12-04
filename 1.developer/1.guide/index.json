@@ -6,7 +6,7 @@
                 "title": "安全机制"
             },
             "prev": {
-                "path": "1.guide/",
+                "path": "1.guide/README.md",
                 "title": "上手指南"
             },
             "title": "关键概念"
@@ -35,7 +35,7 @@
         },
         "4.qa.md": {
             "next": {
-                "path": "2.notify/",
+                "path": "2.notify/README.md",
                 "title": "消息推送"
             },
             "prev": {
@@ -50,7 +50,7 @@
                 "title": "关键概念"
             },
             "prev": {
-                "path": "/",
+                "path": "/README.md",
                 "title": "开发者手册"
             },
             "title": "上手指南"
@@ -58,11 +58,11 @@
     },
     "nav": [
         {
-            "path": "/",
+            "path": "/README.md",
             "title": "开发者手册"
         },
         {
-            "path": "1.guide/",
+            "path": "1.guide/README.md",
             "title": "上手指南"
         }
     ]

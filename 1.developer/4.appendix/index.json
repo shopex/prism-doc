@@ -6,7 +6,7 @@
                 "title": "事件类型"
             },
             "prev": {
-                "path": "4.appendix/",
+                "path": "4.appendix/README.md",
                 "title": "附录"
             },
             "title": "错误码查询"
@@ -33,11 +33,11 @@
     },
     "nav": [
         {
-            "path": "/",
+            "path": "/README.md",
             "title": "开发者手册"
         },
         {
-            "path": "4.appendix/",
+            "path": "4.appendix/README.md",
             "title": "附录"
         }
     ]

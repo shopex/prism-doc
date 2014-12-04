@@ -6,7 +6,7 @@
                 "title": "PHP"
             },
             "prev": {
-                "path": "3.sdk/",
+                "path": "3.sdk/README.md",
                 "title": "SDK"
             },
             "title": "Java"
@@ -79,7 +79,7 @@
         },
         "8.prism-js.md": {
             "next": {
-                "path": "4.appendix/",
+                "path": "4.appendix/README.md",
                 "title": "附录"
             },
             "prev": {
@@ -102,11 +102,11 @@
     },
     "nav": [
         {
-            "path": "/",
+            "path": "/README.md",
             "title": "开发者手册"
         },
         {
-            "path": "3.sdk/",
+            "path": "3.sdk/README.md",
             "title": "SDK"
         }
     ]
